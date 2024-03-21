@@ -1,0 +1,31 @@
+{
+  "name": "nampraesentium",
+  "version": "1.0.0",
+  "description": "A library used for generating random strings, written in TypeScript and based on Node. ",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErikaHegmann/nampraesentium.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "eius",
+    "assumenda",
+    "Crypto"
+  ],
+  "author": "LessieZemlak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErikaHegmann/nampraesentium.git/issues"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "dependencies": {
+    "@types/node": "^16.3.1"
+  }
+}
